@@ -1,2 +1,2 @@
-# TasbihMobile
+# Tasbih Mobile
 Aplikasi Tasbih Mobile Menggunakan React-native
